@@ -1555,19 +1555,19 @@ input, select, textarea {
 	}
 
 	form ::-webkit-input-placeholder {
-		color: #555 !important;
+		color: rgb(170, 167, 167) !important;
 	}
 
 	form :-moz-placeholder {
-		color: #555 !important;
+		color: rgb(110, 108, 108) !important;
 	}
 
 	form ::-moz-placeholder {
-		color: #555 !important;
+		color: rgb(117, 114, 114) !important;
 	}
 
 	form :-ms-input-placeholder {
-		color: #555 !important;
+		color: rgb(126, 123, 123) !important;
 	}
 
 	form ::-moz-focus-inner {
@@ -1636,6 +1636,7 @@ input, select, textarea {
 		.image.fit {
 			display: block;
 			width: 100%;
+			opacity: .82;
 		}
 
 		.image.featured {
@@ -1833,7 +1834,7 @@ input, select, textarea {
 				}
 
 				ul.social li a.fa-linkedin-in {
-					background-color: #006599;
+					background-color: #2DAAE4;
 				}
 
 				ul.social li a.fa-tumblr {
@@ -1845,7 +1846,7 @@ input, select, textarea {
 				}
 
 				ul.social li a.fa-github {
-					background-color: #FAFAFA;
+					background-color: #2DAAE4;
 				}
 
 				ul.social li a.fa-rss {
