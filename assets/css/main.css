@@ -113,6 +113,9 @@ input, select, textarea {
 		color: #43B3E0;
 		text-decoration: underline;
 	}
+	li, ul:hover {
+		color: #43bff0;
+	}
 
 		a:hover {
 			color: #43bff0 !important;
